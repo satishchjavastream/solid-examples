@@ -1,4 +1,4 @@
-package org.example.S;
+package org.solid.S;
 
 public class Address {
     private String address1;

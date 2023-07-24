@@ -1,4 +1,4 @@
-package org.example.O;
+package org.solid.O;
 
 public class Employee {
     private int id;

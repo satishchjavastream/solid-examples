@@ -1,4 +1,4 @@
-package org.example.I;
+package org.solid.I;
 
 public interface PizzaOnlineApp {
     public void acceptOrderOnline();

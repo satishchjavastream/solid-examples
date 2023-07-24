@@ -1,10 +1,10 @@
-package org.example.S;
+package org.solid.L;
 
 public class Employee {
     private int id;
     private String name;
     //private Address;
-
+    //private String trainingPlace;
 
 
     public Employee(int id, String name) {

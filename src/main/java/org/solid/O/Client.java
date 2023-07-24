@@ -1,4 +1,4 @@
-package org.example.O;
+package org.solid.O;
 
 public class Client {
     public static void main(String[] args) {

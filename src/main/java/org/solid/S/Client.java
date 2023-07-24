@@ -1,6 +1,6 @@
-package org.example.S;
+package org.solid.S;
 
-import org.example.O.TrainingEmployee;
+import org.solid.O.TrainingEmployee;
 
 public class Client {
     public static void main(String[] args) {

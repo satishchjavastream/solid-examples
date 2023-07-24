@@ -1,4 +1,4 @@
-package org.example.L;
+package org.solid.L;
 
 public class TrainingEmployee extends Employee {
 
