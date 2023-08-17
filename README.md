@@ -6,7 +6,7 @@ Interface Segregation
 Dependency Inversion
 
 
-# Design pattreans
+# Design patterns
 Creational
 
 Structural
